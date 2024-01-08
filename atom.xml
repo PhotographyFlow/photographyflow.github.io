@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://photographyflow.github.io</id>
+    <title>photography flow</title>
+    <updated>2024-01-08T07:57:06.115Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://photographyflow.github.io"/>
+    <link rel="self" href="https://photographyflow.github.io/atom.xml"/>
+    <subtitle>&quot;The stage is set, now go create.&quot;</subtitle>
+    <logo>https://photographyflow.github.io/images/avatar.png</logo>
+    <icon>https://photographyflow.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, photography flow</rights>
+    <entry>
+        <title type="html"><![CDATA[2023.11]]></title>
+        <id>https://photographyflow.github.io/post/202311/</id>
+        <link href="https://photographyflow.github.io/post/202311/">
+        </link>
+        <updated>2023-11-15T07:47:42.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，如夏天般的11月。<br>
+<img src="https://photographyflow.github.io/post-images/1704700483814.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700493897.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700498731.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700501978.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700506151.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700509056.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1704700511384.webp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 中秋记录]]></title>
+        <id>https://photographyflow.github.io/post/2023-zhong-qiu-ji-lu/</id>
+        <link href="https://photographyflow.github.io/post/2023-zhong-qiu-ji-lu/">
+        </link>
+        <updated>2023-10-28T15:13:57.000Z</updated>
+        <content type="html"><![CDATA[<p>记录首次在外地度过中秋</p>
+<p><img src="https://photographyflow.github.io/post-images/1698552892916.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552900158.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552905012.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552908119.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552914820.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552919656.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552924951.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552928667.webp" alt="" loading="lazy"><br>
+<img src="https://photographyflow.github.io/post-images/1698552932456.webp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
